@@ -1,3 +1,3 @@
-++ Video Streaming Platform
+# Video Streaming Platform
 
--- made for profesional approch of node js development.
++ made for profesional approch of node js development.
